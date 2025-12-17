@@ -1,4 +1,6 @@
 import math
+
+
 class Car:
     def __init__(self, tank_capacity, fuel_consumption, average_speed):
         self.tank_capacity = tank_capacity
